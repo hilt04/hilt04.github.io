@@ -1,0 +1,24 @@
+!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>index</title>
+    <style>
+    body{
+        background: rgb(0, 183, 255)
+        }
+        h1{
+            color: rgb(243, 243, 245)
+        }
+    </style>
+</head>
+<body>
+        <a href="pagina2.html">clique aqui</a>
+        <img src= "HS.jpg"/>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/qN4ooNx77u0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+       <h1>"Olá, meninx"</h1>
+        <p>Tutupaum?</p>
+</body>
+</html>
