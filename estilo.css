@@ -1,0 +1,48 @@
+estilo.css
+
+    /* a {
+        color: green;
+        font-size: 30px;
+    }
+    img {
+        width:30px;
+    }
+
+    li {
+        font-weight: bold;
+        color: blue;
+        }
+    h1 {
+        color: blue;
+        font-size: 15px;
+    } */
+
+
+
+
+
+    /* # -> cita todos os elementos que estão dentro do id */
+    /* . -> cita todos os elementos que estão dentro do class */
+
+    /* #titulo{
+            color:  green;
+            }
+
+        .texto {
+            color: red;
+            }*/
+
+    /* Fazer tanto o id quanto o class obedecer aos mesmos parâmetros */
+    /* #titulo,
+    .texto {
+        color: blue;
+        font-size: 25px;
+    } */
+
+    /* # titulo {
+            font-weight: nornal
+        } 
+            
+    .texto {
+        font-weight: bold;
+    }*/
