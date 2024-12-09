@@ -1,0 +1,19 @@
+css borders
+ p { -> bordas no texto
+background-color: #0000FF;
+border-radius: 5px;
+}
+
+div { -> Oara criar um quadrado e, posteriormente, uma bola.
+    Background-color: ##00FF00;
+    Widgh: 200px;
+    heigh: 200px;
+    border-radius: 200px;
+    border: 3px solid darkgreen;
+    }
+
+img { -> bordas na imagem
+    border: 5px solid #FF0000;
+    border-radius: 5px;
+    overflow: hidden;
+}
