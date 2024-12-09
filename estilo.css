@@ -1,6 +1,6 @@
 estilo.css
 
-    /* a {
+     a {
         color: green;
         font-size: 30px;
     }
@@ -15,16 +15,12 @@ estilo.css
     h1 {
         color: blue;
         font-size: 15px;
-    } */
-
-
-
-
+        }
 
     /* # -> cita todos os elementos que estão dentro do id */
     /* . -> cita todos os elementos que estão dentro do class */
 
-    /* #titulo{
+     #titulo{
             color:  green;
             }
 
@@ -33,16 +29,16 @@ estilo.css
             }*/
 
     /* Fazer tanto o id quanto o class obedecer aos mesmos parâmetros */
-    /* #titulo,
+     #titulo,
     .texto {
         color: blue;
         font-size: 25px;
     } */
 
-    /* # titulo {
+     # titulo {
             font-weight: nornal
         } 
             
     .texto {
         font-weight: bold;
-    }*/
+    }
